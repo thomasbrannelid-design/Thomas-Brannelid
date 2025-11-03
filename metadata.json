@@ -1,0 +1,5 @@
+{
+  "name": "Contact Enrichment + Notes",
+  "description": "An application to enrich contact information from a name, company, or LinkedIn URL, summarize notes using AI, and save the results to Notion or Google Sheets.",
+  "requestFramePermissions": []
+}
